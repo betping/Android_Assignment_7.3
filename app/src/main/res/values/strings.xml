@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite2</string>
+    <string name="edetails">Employee Details</string>
+    <string name="e_name">Name :</string>
+    <string name="e_age">Age :</string>
+    <string name="e_photo">Photo :</string>
+</resources>
